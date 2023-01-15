@@ -1,5 +1,3 @@
-from random import randint
-
 a = int(input("Enter first number:"))
 b = int(input("Enter second number:"))
 
